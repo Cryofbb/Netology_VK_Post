@@ -1,7 +1,7 @@
 package ru.netology.domain;
 
 public class Reply {
-    boolean reposted;
-    int repostCount;
-    boolean allowedToReply;
+    boolean reposted; // user_reposted
+    int repostCount; // count
+    //boolean allowedToReply;
 }
